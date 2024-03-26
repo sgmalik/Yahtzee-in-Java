@@ -1,6 +1,5 @@
 /*
 Surya Malik
-CS110B
 This program is my GameDriver
 class which runs all of the methods
 I have created throughout the various

@@ -1,6 +1,5 @@
 /*
 Surya Malik
-CS110B
 This program is my ThreeOfAKind
 class, which extends my category class
 and overwrites the abstract method

@@ -1,6 +1,5 @@
 /*
 Surya Malik
-CS110B
 This program is my DiceRoll
 class, containing different methods 
 for completing different tasks

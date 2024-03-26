@@ -1,6 +1,5 @@
 /*
 Surya Malik
-CS110B
 This program is my Die
 class, containing different methods 
 for completing different tasks
